@@ -7,7 +7,7 @@
 3. Open command prompt inside 'VehicleRegistration' folder.
 4. type - 
 >> javac VehicleRegistration.java
-6. type - 
+5. type - 
 >> java VehicleRegistration
 
 ## Compile Problem
