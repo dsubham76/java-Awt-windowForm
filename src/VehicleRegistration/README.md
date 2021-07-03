@@ -6,9 +6,9 @@
 2. Extract and go to VehicleRegistration folder.
 3. Open command prompt inside 'VehicleRegistration' folder.
 4. type - 
-> javac VehicleRegistration.java
+>> javac VehicleRegistration.java
 6. type - 
-> java VehicleRegistration
+>> java VehicleRegistration
 
 ## Compile Problem
 1.  Note: VehicleRegistration.java uses or overrides a deprecated API.
