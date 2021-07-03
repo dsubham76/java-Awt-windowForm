@@ -11,9 +11,9 @@
 2. Extract and go to VehicleRegistration folder.
 3. Open command prompt inside 'VehicleRegistration' folder.
 4. type - 
->> javac VehicleRegistration.java
+``` javac VehicleRegistration.java ```
 5. type - 
->> java VehicleRegistration
+``` java VehicleRegistration ```
 
 ---
 
