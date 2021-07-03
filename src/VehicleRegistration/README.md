@@ -1,6 +1,6 @@
 # README BEFORE USE
 @author: Subham Das
-
+@copyright 2021
 ---
 
 ## How to run?
@@ -19,3 +19,10 @@
 	Note: Recompile with -Xlint:deprecation for details.
 
 	(Ignore these lines).
+
+---
+
+## Support & Help
+For any suggestion and opinion -
+>> call: 6291142787
+>> email: dsubham776@gmail.com
