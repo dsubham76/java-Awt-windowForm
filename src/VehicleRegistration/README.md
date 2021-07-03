@@ -1,6 +1,8 @@
 # README BEFORE USE
 @author: Subham Das
 
+---
+
 ## How to run?
 1. Download Zip or open cmd and type - git clone https://github.com/dsubham76/java-Awt-windowForm.git
 2. Extract and go to VehicleRegistration folder.
@@ -10,7 +12,9 @@
 5. type - 
 >> java VehicleRegistration
 
-## Compile Problem
+---
+
+## Compile Problem?
 1.  Note: VehicleRegistration.java uses or overrides a deprecated API.
 	Note: Recompile with -Xlint:deprecation for details.
 
